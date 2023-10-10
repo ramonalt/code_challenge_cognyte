@@ -1,0 +1,6 @@
+
+export COGNYTE_SERVER_PREFIX='random_filename'
+export COGNYTE_SERVER_IP='127.0.0.1' # In IPv4
+export COGNYTE_SERVER_PORT='1234'
+export COGNYTE_SERVER_MAX_FILE_SIZE='10' # In bytes
+export COGNYTE_SERVER_CONNECTION_TIMER='10000' # In milliseconds
